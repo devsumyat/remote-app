@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1819691224",
+    "firebase_url": "https://remoteapp-e9726.firebaseio.com",
+    "project_id": "remoteapp-e9726",
+    "storage_bucket": "remoteapp-e9726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1819691224:android:5f93ed3da8b1bae6",
+        "android_client_info": {
+          "package_name": "com.example.remoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1819691224-h96ql8sl1suegdtkfdllk6bg7a6c4nf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQ1PrjSuCrP3PB7uDz2APSuZgk_hJ0aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1819691224-h96ql8sl1suegdtkfdllk6bg7a6c4nf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

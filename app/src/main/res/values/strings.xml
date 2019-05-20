@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteApp</string>
+    <string name="fetch_remote_welcome_message">Firebase Remote</string>
+</resources>
